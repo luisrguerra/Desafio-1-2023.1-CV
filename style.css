@@ -1,0 +1,36 @@
+html {
+    font-family:"Lucida Console", Courier, monospace;
+    background-color: #38152D;
+    color: white;
+}
+.green{
+    color: #8AE234;
+}
+.blue{
+    color: #6B9ECF;
+}
+.blink{
+    animation: blink 1s infinite;
+}
+@keyframes blink{
+    0%,50%{opacity: 0;}
+    51%,100%{opacity: 1;}
+}
+
+p.title{
+    font-size: 22px;
+}
+p{
+    font-size: 18px;
+}
+body{
+    max-width: 50em;
+    margin-left: auto;
+    margin-right: auto;
+    padding-inline: 2em;
+}
+ul{
+    font-size: 18px; 
+    padding-inline-start: 30px;
+    margin-block-start: 0.25em;
+}
