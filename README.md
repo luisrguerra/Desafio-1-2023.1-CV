@@ -1,5 +1,7 @@
 # Desafio 1 - Currículo com HTML e CSS
 
+# [Link](https://luisrguerra.github.io/Desafio-1-2023.1-CV/)
+
 O presente desafio consiste na criação do currículo pessoal como uma página web. O objetivo é avaliar os conhecimentos de HTML, CSS e interpretação de requisitos, habilidades tão relevantes para o sucesso de nossos projetos.
 
 Caso surjam dúvidas, o candidato pode contatar um monitor ou utilizar o fórum da capacitação. Porém, é importante lembrar que as competências para compreender os requisitos e formular as perguntas corretas para o cliente são tão cruciais quanto o conhecimento técnico.
